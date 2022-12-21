@@ -14,4 +14,4 @@ But not everything is gray, you can support with your modifications and we will 
 - [MrNiz](https://github.com/MrNiz) - Main creator of lazy things.
 
 ## BUG REPORT
-You could report some type of error when installing in my discord md `MrNiz#2628`, because some things may or may not work, but the vast majority should work without any problem since the vast majority comes from [`Haxelib.com`](https://haxelib.com), but from anyway I recommend being careful who you see the facilities with
+You could report some type of error when installing in my discord md `MrNiz#2628`, because some things may or may not work, but the vast majority should work without any problem since the vast majority comes from [`Haxelib.com`](https://haxelib.com]), but from anyway I recommend being careful who you see the facilities with
